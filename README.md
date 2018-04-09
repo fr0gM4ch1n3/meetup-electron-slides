@@ -1,7 +1,7 @@
 ## electron-connect
 
 features:
-- tart (and restart) Electron application.
+- start (and restart) Electron application.
 - reload renderer processes.
 - stop Electron application.
 
